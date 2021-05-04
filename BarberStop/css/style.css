@@ -1,0 +1,45 @@
+body {
+}
+
+#mainb {
+  padding: 2% 15%;
+}
+
+.navbar {
+  padding: 0 0 4rem;
+}
+#maint {
+  font-family: "Bungee Outline", cursive;
+  font-size: 3rem;
+}
+
+#title {
+  background-color: #212529;
+}
+
+#hp1 {
+  color: whitesmoke;
+  font-family: "Montserrat", sans-serif;
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+hr {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border: 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  color: white;
+}
+
+table {
+  display: block;
+  width: 500px;
+  height: 200px;
+  overflow-y: scroll;
+}
+
+thead th {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
